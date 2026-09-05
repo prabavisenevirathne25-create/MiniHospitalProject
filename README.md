@@ -31,9 +31,7 @@
 4. Patient Visit History (Singly Linked List)
 5. Exit
 
- Select a menu number and follow the prompts. Patients must be added to the
- patient records before they can be placed in the emergency queue or assigned
- treatment and visit records.
+
 
  ## Project Structure
 
