@@ -1,8 +1,7 @@
 
  # Mini Hospital Emergency System
 
- A console-based Java application for managing hospital patients, emergency
- queues, treatment records, and patient visit histories.
+ 
 
  ## Features
 
@@ -13,9 +12,7 @@
  - Add, remove, search, and display visits using a singly linked list.
  - Automatically record the date for new visits and treatments.
 
- ## Requirements
-
- - Java Development Kit (JDK) 9 or later, because the project uses Java modules.
+ 
 
  ## Compile and Run
 
